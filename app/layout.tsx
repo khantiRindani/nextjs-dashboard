@@ -1,3 +1,5 @@
+import '@/app/ui/global.css'; // tailwind import 
+
 export default function RootLayout({
   children,
 }: {
